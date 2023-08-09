@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/rahadarabi/static/css/main.4a26e55f.css",
+    "main.js": "/rahadarabi/static/js/main.925150af.js",
+    "static/js/787.1b3a0bfd.chunk.js": "/rahadarabi/static/js/787.1b3a0bfd.chunk.js",
+    "static/media/remixicon.svg?t=1690730386070": "/rahadarabi/static/media/remixicon.db77551b8efc76571c4f.svg",
+    "static/media/remixicon.eot?t=1690730386070": "/rahadarabi/static/media/remixicon.53ec05edb4b6864b45b1.eot",
+    "static/media/remixicon.ttf?t=1690730386070": "/rahadarabi/static/media/remixicon.4aa0fd158658e2a40e79.ttf",
+    "static/media/remixicon.woff?t=1690730386070": "/rahadarabi/static/media/remixicon.affd60ca37df38cfee4f.woff",
+    "static/media/remixicon.woff2?t=1690730386070": "/rahadarabi/static/media/remixicon.821a773710130bcf4674.woff2",
+    "static/media/bg.jpeg": "/rahadarabi/static/media/bg.cb39c105ef27dcd8eb10.jpeg",
+    "index.html": "/rahadarabi/index.html",
+    "main.4a26e55f.css.map": "/rahadarabi/static/css/main.4a26e55f.css.map",
+    "main.925150af.js.map": "/rahadarabi/static/js/main.925150af.js.map",
+    "787.1b3a0bfd.chunk.js.map": "/rahadarabi/static/js/787.1b3a0bfd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a26e55f.css",
+    "static/js/main.925150af.js"
+  ]
+}
