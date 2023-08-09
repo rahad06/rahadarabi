@@ -1,0 +1,50 @@
+{
+  "header": {
+    "menu": [
+      {
+        "name": "About",
+        "target": "about"
+      },
+      {
+        "name": "Skills",
+        "target": "skills"
+      }
+    ]
+  },
+  "intro": {
+    "title": "RAHA DARABI",
+    "subtitle": "FRONT-END DEVELOPER",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/rahad06",
+        "icon": "ri-github-line"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/raha-darabi?_l=en_US",
+        "icon": "ri-linkedin-fill"
+
+      },
+      {
+        "name": "Portfolio",
+        "url": "https://yourportfolio.com"
+      }
+    ]
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I'm a passionate front-end developer with a keen eye for design and a strong focus on creating user-friendly and responsive websites. I love turning ideas into reality through clean and efficient code."
+  },
+  "skills": {
+    "title": "My Skills",
+    "list": [
+      "HTML",
+      "CSS",
+      "Sass",
+      "JavaScript",
+      "jQuery",
+      "React.js"
+    ]
+  }
+}
